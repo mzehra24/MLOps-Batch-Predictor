@@ -25,6 +25,11 @@ This project implements a minimal MLOps-style batch pipeline that:
 - Fully Dockerized
 - One-command execution
 
+### Requirements
+- pandas
+- numpy
+- pyyaml
+
 ---
 
 ## Usage
