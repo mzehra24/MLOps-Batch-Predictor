@@ -1,0 +1,9 @@
+2026-03-28 15:42:43,549 - INFO - Starting batch job
+2026-03-28 15:42:43,586 - INFO - Job completed successfully
+2026-03-28 15:42:43,586 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.0, 'latency_ms': 22.281169891357422}
+2026-03-28 11:36:47,327 - INFO - Starting batch job
+2026-03-28 11:36:47,430 - INFO - Job completed successfully
+2026-03-28 11:36:47,431 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.0, 'latency_ms': 94.53344345092773}
+2026-03-28 11:37:04,645 - INFO - Starting batch job
+2026-03-28 11:37:04,747 - INFO - Job completed successfully
+2026-03-28 11:37:04,748 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.0, 'latency_ms': 94.20394897460938}
